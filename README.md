@@ -36,9 +36,9 @@ Try the following:
 
 1) The first screen should have a search bar which will be used to look for a comic character. Using a submit button or the submit key, the client will request the API to retrieve the possible results. The results should be displayed below the search bar in a box.
 
-2) Still on the first screen and once the results are retrievend and displayed, the user must be able to click on one of the results in order to fetch detailed information about the character. Once the information comes back from the server, show the character details in a new screen.
+2) Still on the first screen and once the results are retrieved and displayed, the user must be able to click on one of the results in order to fetch detailed information about the character. Once the information comes back from the server, show the character details in a new screen.
 
-3) On this second screen, use your imagination and good taste to show everything that you would like to show about the superhero (or villain). It's on you how much and how you want to show, but just make sure to include, at least, one image.
+3) On this second screen, use your imagination and good taste to show everything that you would like to show about the superhero (or villain). It's on you how much information you want to show and how you want to show it, but just make sure to include, at least, one image.
 
 4) Still on the second screen, make sure to show a list of comics in which the character appears. How to show the list (carrousel, regular list), is up to you, just make sure to use the comic artwork and not only text. When the user clicks on one of this comics, go to the server and retrieve the information and once it gets back, **open a modal** and show the comic information.
 
