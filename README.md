@@ -56,4 +56,4 @@ Please, remember to comment your code as much as you can.
 
 Once you are done with the challenge, send us the GitHub link to the public repo in order for us to take a look at it.
 
-Best of luck and have fun coding!
+Have fun coding!
